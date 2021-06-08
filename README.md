@@ -21,6 +21,15 @@ That project is about detection of multiple trash types using <b> Yolov5 </b>mod
 - Polypropylene bag
 - Crisp packet
 
+# Note :
+In testing step i clustered the precedent types into the following super classes:
+- Bottle
+- Food container
+- Can
+- Food waste
+- Plastic bag
+
+
 # Some of the results obtained during testing step
 
 <img width="500"  height="400" src="https://github.com/hafid34bba/Trash-Detection/blob/main/img/000057.JPG">  
