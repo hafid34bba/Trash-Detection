@@ -23,14 +23,16 @@ That project is about detection of multiple trash types using <b> Yolov5 </b>mod
 
 # Some of the results obtained during testing step
 
+<img width="500"  height="400" src="https://github.com/hafid34bba/Trash-Detection/blob/main/img/000057.JPG">  
+<br>
+<br>
 
-![](img/000057.jpg)
+<img width="500"  height="400" src="https://github.com/hafid34bba/Trash-Detection/blob/main/img/000055.JPG">  
 <br>
 <br>
-![](img/000055.jpg)
+
+<img width="500"  height="400" src="https://github.com/hafid34bba/Trash-Detection/blob/main/img/000056.JPG">  
 <br>
 <br>
-![](img/000056.jpg)
-<br>
-<br>
-![](img/00006à.jpg)
+<img width="500"  height="400" src="https://github.com/hafid34bba/Trash-Detection/blob/main/img/000060.JPG">  
+
