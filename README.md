@@ -22,7 +22,7 @@ That project is about detection of multiple trash types using <b> Yolov5 </b>mod
 - Crisp packet
 
 # Note :
-In testing step i clustered the precedent types into the following super classes:
+In testing step i clustered the precedent types into the following super-classes:
 - Bottle
 - Food container
 - Can
