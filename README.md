@@ -2,7 +2,7 @@
 
 That project is about detection of multiple trash types using <b> Yolov5 </b>model<br><br>
 <b>Types of trash used in training:</b>
-- Other plastic bottle 
+
 - Clear plastic bottle
 - Glass bottle','Food Can
 - Aerosol
@@ -20,6 +20,7 @@ That project is about detection of multiple trash types using <b> Yolov5 </b>mod
 - Single-use carrier bag
 - Polypropylene bag
 - Crisp packet
+- Other plastic bottle 
 
 # Note :
 In testing step i clustered the precedent types into the following super-classes:
